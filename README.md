@@ -1,0 +1,2 @@
+# SQLqueries
+Samples SQL
