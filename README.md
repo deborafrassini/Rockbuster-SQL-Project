@@ -20,5 +20,5 @@ queries.
 
  ## Tools
  * PostgreSQL Database
- * Tableau - Debora Frassini - [Rockbuster](https://public.tableau.com/app/profile/debora.frassini/viz/Rockbuster2_17120018857830) 
+ * Tableau - Debora Frassini - [Rockbuster](https://public.tableau.com/app/profile/debora.frassini/viz/Rockbuster2_17120018857830/Sheet1) 
  
