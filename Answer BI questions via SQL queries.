@@ -1,1 +1,24 @@
 ## Top 10 Movies Rented.
+
+SELECT C.title, COUNT(A.rental_id) AS times_rented
+
+FROM rental A
+INNER JOIN inventory B on A.inventory_id = B.inventory_id
+INNER JOIN film C on B.film_id = C.film_id
+
+GROUP by C.title
+ORDER BY times_rented DESC
+LIMIT 10
+
+## Genres with Lowest Average Rental Rate
+
+SELECT C.name as genre, ROUND(AVG(rental_rate), 2) as avg_rental_rate
+
+FROM film A
+INNER JOIN film_category B ON A.film_id = B.film_id
+INNER JOIN category C ON B.category_id = C.category_id
+
+GROUP BY genre
+ORDER BY avg_rental_rate ASC
+LIMIT 10
+
