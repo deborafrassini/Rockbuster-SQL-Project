@@ -2,6 +2,7 @@
 This repository was created as to showcase SQL Skills acquired during this project
 
 **Introduction**
+
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. You’ve been hired as a data analyst by Rockbuster Stealth’s business intelligence (BI)
 department to help with the launch strategy for the new online video service. The BI
