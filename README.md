@@ -1,6 +1,5 @@
-# SQLqueries
-Samples SQL
-This section has samples of SQL queries. 
+# Rockbuster Project.
+This folder is to showcase SQL Skills. 
 
 In one of the projects, it was necessary to use SQL queries to answer business intelligence questions for
 Rockbuster Stealth LLC, an ficticious movie rental company that used to have stores around the world.
