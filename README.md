@@ -1,14 +1,17 @@
 # Rockbuster Project.
-This folder is to showcase SQL Skills. 
+This repository was created as to showcase SQL Skills acquired during this project
 
-In one of the projects, it was necessary to use SQL queries to answer business intelligence questions for
-Rockbuster Stealth LLC, an ficticious movie rental company that used to have stores around the world.
+# Introduction
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the
+world. You’ve been hired as a data analyst by Rockbuster Stealth’s business intelligence (BI)
+department to help with the launch strategy for the new online video service. The BI
+department helps other departments, from inventory to customer insights, with data-related
+queries.
 
-The Top 10 Movies Retend,
-Lowest Average Rental Rate by Genres, 
-The Revenue by Rating, 
-Genre that has the most # of movies in the inventory, 
-Customer and Revenue around the World.
+ The Rockbuster Stealth Management Board has asked a series of business questions and
+ they expect data-driven answers that they can use for their 2020 company strategy. 
 
-The project requested to answer those questions and import the visualization via Tableau in a final presentation
-shared in this Folder.
+ # Tools
+ PostgreSQL Database
+ Tableau  
+ 
